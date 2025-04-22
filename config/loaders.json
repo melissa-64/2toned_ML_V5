@@ -1,14 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BO6 ECHOX VIP",
-            "name": "BO6 ECHOX VIP",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/Chair.exe",
-            "status": "online",
-            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/1.png"
-        },
-        {
             "id": "BO6 ECHOX",
             "name": "BO6 ECHOX",
             "categoryId": "bo6",
