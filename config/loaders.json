@@ -33,12 +33,12 @@
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/935281627200901200/2.png"
         },
         {
-            "id": "unlocker",
-            "name": "WZ4 UNLOCK ALL",
+            "id": "bo6_unlocker",
+            "name": "bo6_unlocker",
             "categoryId": "bo6",
             "downloadUrl": "https://cloud.anewvision.fr/935281627200901200/bo6_unlocker.exe",
-            "status": "online",
-            "imageUrl": "https://media.discordapp.net/attachments/1289270175090212914/1362138480234205355/3.png?ex=68014dd0&is=67fffc50&hm=3e8d03909b93271bb04fa4832f042ae8a29f100799eb4db25deea893b6c1d2e7&=&format=webp&quality=lossless",
+            "status": "updating",
+            "imageUrl": "https://media.discordapp.net/attachments/1248978378334146654/1341168826951274626/3.png?ex=6809644e&is=680812ce&hm=74b1e1b0a60dbe216976b3352c2090810f4293a9365c403f4a679db23b324a6f&=&format=webp&quality=lossless",
             "productUrl": "https://2toned.shop/product/bo6-ua"
         }
     ]
